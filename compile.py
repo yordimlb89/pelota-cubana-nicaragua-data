@@ -46,6 +46,6 @@ def compile_data(source):
    apply(f,'fielding','FLDP',rate(int(f['PO'])+int(f['A']),int(f['C'])))
  records=[r for r in rows.values() if any(int((r.get(k)or{}).get(metric)or 0)>0 for k,metric in [('batting','G'),('pitching','APP'),('fielding','G'),('fielding','C')])]
  used={r['playerId'] for r in records}
- return {k:copy.deepcopy(source[k]) for k in ('schema','league','reviewedAt','coverage','seasons','teams')}|{'players':[p for p in players if p['id'] in used],'records':records,'ratioReviews':reviews,'updateStatus':source.get('updateStatus',{'mode':'reviewed-import','lastSuccessAt':'2026-10-09T19:00:00Z','message':'Importación histórica revisada. Actualización automática pendiente de primera comprobación.'})}
+ return {k:copy.deepcopy(source[k]) for k in ('schema','league','reviewedAt','coverage','seasons','teams')}|{'players':[p for p in players if p['id'] in used],'records':records,'ratioReviews':reviews,'updateStatus':source.get('updateStatus',{'mode':'reviewed-import','manualReviewDate':'2026-10-09','message':'Importación histórica revisada. Actualización automática pendiente de primera comprobación.'})}
 if __name__=='__main__':
  source=json.loads((ROOT/'source.json').read_text());data=compile_data(source);(ROOT/'data.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n');print(json.dumps({'players':len(data['players']),'records':len(data['records']),'ratioReviews':len(data['ratioReviews']),'seasons':{s['season']:len([r for r in data['records'] if r['season']==s['season']]) for s in data['seasons']}}))
