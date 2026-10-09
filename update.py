@@ -36,7 +36,7 @@ def run():
    if season.get('startDate','')>STAMP[:10]:waiting.append(season['season']);continue
    try:
     response=page.goto(season['url'],wait_until='domcontentloaded',timeout=60000)
-    if not response or response.status>=400:raise ValueError('Official site unavailable')
+    if not response or response.status>=400:raise ValueError('Official site HTTP '+str(response.status if response else None)+'; '+page.locator('body').inner_text()[:250])
     fresh=[capture(page,season,*args) for args in [('batting','Batting','OPS'),('pitching','Pitching','WHIP'),('fielding','Fielding','FLDP')]]
     old=[t for t in source['tables'] if t['season']==season['season']]
     for table in fresh:
@@ -48,7 +48,7 @@ def run():
     target=next(s for s in source['seasons'] if s['season']==season['season']);target['checkedAt']=STAMP;target['status']='available'
    except Exception as e:errors.append({'season':season['season'],'message':str(e)[:400]})
   browser.close()
- source['updateStatus']={'mode':'github-actions','lastAttemptAt':STAMP,'lastSuccessAt':STAMP if verified else original.get('updateStatus',{}).get('lastSuccessAt','2026-10-09T20:00:00Z'),'verifiedSeasons':verified,'waitingSeasons':waiting,'errors':errors,'partial':bool(errors),'message':'Actualización parcial; se conservan las últimas tablas verificadas.' if errors else 'Consulta oficial completada. Las temporadas aún no iniciadas esperan su fecha de comienzo.'}
+ source['updateStatus']={'mode':'github-actions','lastAttemptAt':STAMP,'lastSuccessAt':STAMP if verified else original.get('updateStatus',{}).get('lastSuccessAt','2026-10-09T19:00:00Z'),'verifiedSeasons':verified,'waitingSeasons':waiting,'errors':errors,'partial':bool(errors),'message':'Actualización parcial; se conservan las últimas tablas verificadas.' if errors else 'Consulta oficial completada. Las temporadas aún no iniciadas esperan su fecha de comienzo.'}
  data=compile_data(source)
  for path,obj in [('source.json',source),('data.json',data),('status.json',source['updateStatus'])]:
   (ROOT/path).write_text(json.dumps(obj,ensure_ascii=False,separators=(',',':'))+'\n')
