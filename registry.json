@@ -1,0 +1,756 @@
+[
+  {
+    "id": "alay-lago",
+    "name": "Alay Lago",
+    "aliases": [
+      "LAGO Alay"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      },
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "yassel-pino",
+    "name": "Yassel Pino",
+    "aliases": [
+      "PINO Yassel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      }
+    ]
+  },
+  {
+    "id": "raico-santos",
+    "name": "Raico Santos",
+    "aliases": [
+      "SANTOS ALMEIDA Raico"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      }
+    ]
+  },
+  {
+    "id": "franny-cobos",
+    "name": "Franny Cobos",
+    "aliases": [
+      "COBOS CLARO Franny"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      }
+    ]
+  },
+  {
+    "id": "yoel-yanqui",
+    "name": "Yoel Yanqui",
+    "aliases": [
+      "YANQUI Yoel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      },
+      {
+        "url": "https://pelotacubanausa.com/guibert-yoel-yanqui-duenas-figueroa-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "yoelkis-guibert",
+    "name": "Yoelkis Guibert",
+    "aliases": [
+      "GUIBERT Yoelkis"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "GUIBERT STEVEN Yoelkis"
+      },
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/guibert-yoel-yanqui-duenas-figueroa-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "GUIBERT STEVEN Yoelkis"
+  },
+  {
+    "id": "armando-duenas",
+    "name": "Armando Dueñas",
+    "aliases": [
+      "DUEÑAS Armando"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "DUEÑAS MEDINA Armando"
+      },
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/guibert-yoel-yanqui-duenas-figueroa-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "DUEÑAS MEDINA Armando"
+  },
+  {
+    "id": "yusnier-diaz",
+    "name": "Yusnier Díaz",
+    "aliases": [
+      "DIAZ ECHEVARRIA Yusnier"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      }
+    ]
+  },
+  {
+    "id": "lazaro-alonso",
+    "name": "Lázaro Alonso",
+    "aliases": [
+      "ALONSO CABRERA Lazaro Alejandro"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "ALONSO PERAZA Lázaro"
+      },
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "ALONSO PERAZA Lázaro"
+  },
+  {
+    "id": "maikel-serrano",
+    "name": "Maikel Serrano",
+    "aliases": [
+      "SERRANO Maikel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "source": "owner-supplied Cuban cohort, 2026-10-09"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "henry-urrutia",
+    "name": "Henry Urrutia",
+    "aliases": [
+      "URRUTIA Henry"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://cubanbaseballdigest.com/2025/12/03/two-more-cubans-ink-deals-with-winter-league-clubs/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "geisel-cepeda",
+    "name": "Geisel Cepeda",
+    "aliases": [
+      "CEPEDA Geisel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://cubanbaseballdigest.com/2025/12/03/two-more-cubans-ink-deals-with-winter-league-clubs/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "eddy-diaz",
+    "name": "Eddy Díaz",
+    "aliases": [
+      "DIAZ Eddy"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/yassel-pino-lazaro-alonso-nicaragua-2025/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "danell-figueroa",
+    "name": "Danell Figueroa",
+    "aliases": [
+      "FIGUEROA Danell"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/guibert-yoel-yanqui-duenas-figueroa-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "maikol-perez",
+    "name": "Maikol Pérez",
+    "aliases": [
+      "PEREZ Maikol"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/yassel-pino-lazaro-alonso-nicaragua-2025/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "erisbel-arruebarrena",
+    "name": "Erisbel Arruebarrena",
+    "aliases": [
+      "ARRUEBARRUENA Erisbel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "ARRUEBARRENA ESCALANTE Bárbaro Erisbel"
+      },
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "ARRUEBARRENA ESCALANTE Bárbaro Erisbel"
+  },
+  {
+    "id": "rusney-castillo",
+    "name": "Rusney Castillo",
+    "aliases": [
+      "CASTILLO Rusney"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "pedro-echemendia",
+    "name": "Pedro Echemendía",
+    "aliases": [
+      "ECHEMENDIA Pedro"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "ECHEMENDIA CERVANTES Pedro"
+      }
+    ],
+    "cubanArchiveName": "ECHEMENDIA CERVANTES Pedro"
+  },
+  {
+    "id": "dayan-garcia",
+    "name": "Dayán García",
+    "aliases": [
+      "GARCIA Dayan"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "GARCÍA ORTEGA Dayán"
+      }
+    ],
+    "cubanArchiveName": "GARCÍA ORTEGA Dayán"
+  },
+  {
+    "id": "yunieski-garcia",
+    "name": "Yunieski García",
+    "aliases": [
+      "GARCÍA VIERA Yunieski"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "GARCÍA VIERA Yunieski"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "GARCÍA VIERA Yunieski"
+  },
+  {
+    "id": "yosmany-guerra",
+    "name": "Yosmany Guerra",
+    "aliases": [
+      "GUERRA Yosmany",
+      "GUERRA FEBLES Yosmany"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "lazaro-hernandez",
+    "name": "Lázaro Hernández",
+    "aliases": [
+      "HERNANDEZ Lazaro"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "BLANCO HERNÁNDEZ Lázaro Emilio"
+      }
+    ],
+    "cubanArchiveName": "BLANCO HERNÁNDEZ Lázaro Emilio"
+  },
+  {
+    "id": "pavel-hernandez",
+    "name": "Pavel Hernández",
+    "aliases": [
+      "HERNANDEZ Pavel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "italy-history.json",
+        "name": "Pavel Hernández Bruce"
+      },
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "HERNÁNDEZ BRUCES Pavel"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "relatedProfiles": [
+      {
+        "league": "italy",
+        "playerId": "pavel-hernandez"
+      }
+    ],
+    "cubanArchiveName": "HERNÁNDEZ BRUCES Pavel"
+  },
+  {
+    "id": "yordan-manduley",
+    "name": "Yordan Manduley",
+    "aliases": [
+      "MANDULEY Yordan"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "MANDULEY ESCALONA Yordan"
+      }
+    ],
+    "cubanArchiveName": "MANDULEY ESCALONA Yordan"
+  },
+  {
+    "id": "francisco-jose-martinez",
+    "name": "Francisco José Martínez",
+    "aliases": [
+      "MARTINEZ GARCIA Francisco Jose"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "luis-medina",
+    "name": "Luis Medina",
+    "aliases": [
+      "MEDINA Luis"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "italy-history.json",
+        "name": "Frank Luis Medina Garcia"
+      },
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "DÍAZ MEDINA Luis Felipe"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "relatedProfiles": [
+      {
+        "league": "italy",
+        "playerId": "frank-luis-medina-garcia"
+      }
+    ],
+    "cubanArchiveName": "DÍAZ MEDINA Luis Felipe"
+  },
+  {
+    "id": "adrian-moreno",
+    "name": "Adrián Moreno",
+    "aliases": [
+      "MORENO Adrian"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      },
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "jose-yordan-nodal",
+    "name": "José Yordan Nodal",
+    "aliases": [
+      "NODAL Jose Y."
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "yosvani-penalver",
+    "name": "Yosvani Peñalver",
+    "aliases": [
+      "PEÑALVER Yosvani"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "PEÑALVER DARCOURT Yosvani"
+      }
+    ],
+    "cubanArchiveName": "PEÑALVER DARCOURT Yosvani"
+  },
+  {
+    "id": "roilan-robert-portuondo",
+    "name": "Roilan Robert Portuondo",
+    "aliases": [
+      "PORTUONDO FAVIER Roilan Robert"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://oncubanews.com/deportes/beisbol/la-historia-de-roilan-robert-el-lanzador-que-nunca-perdio-la-fe/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "rogelio-quesada",
+    "name": "Rogelio Quesada",
+    "aliases": [
+      "QUESADA Rogelio"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "lorenzo-quintana",
+    "name": "Lorenzo Quintana",
+    "aliases": [
+      "QUINTANA FERNANDEZ Lorenzo"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/mas-de-50-cubanos-han-jugado-la-temporada-invernal-en-el-caribe-listado/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "jose-ramon-rodriguez",
+    "name": "José Ramón Rodríguez",
+    "aliases": [
+      "RODRIGUEZ MENENDEZ José Ramón"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "RODRÍGUEZ MENÉNDEZ José Ramón"
+      }
+    ],
+    "cubanArchiveName": "RODRÍGUEZ MENÉNDEZ José Ramón"
+  },
+  {
+    "id": "reinier-roll-valdes",
+    "name": "Reinier Roll Valdés",
+    "aliases": [
+      "ROLL Reinier",
+      "VALDES Reinier"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      },
+      {
+        "url": "https://www.laprensani.com/2021/03/22/deportes/2799899-la-historia-del-lanzador-cubano-que-vencio-al-boer-dos-veces-el-mismo-dia",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "luis-miguel-romero",
+    "name": "Luis Miguel Romero",
+    "aliases": [
+      "ROMERO Luis M."
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "pablo-salgado",
+    "name": "Pablo Salgado",
+    "aliases": [
+      "SALGADO Pablo"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "rubi-silva",
+    "name": "Rubi Silva",
+    "aliases": [
+      "SILVA Rubi"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "maikel-taylor",
+    "name": "Maikel Taylor",
+    "aliases": [
+      "TAYLOR MUÑOZ Maikel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "alfredo-valiente",
+    "name": "Alfredo Valiente",
+    "aliases": [
+      "VALIENTE Alfredo"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/cubano-alfredo-valiente-alarga-racha-ganadora-de-los-tigres-en-nicaragua-resumen-lbpn/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "xiam-vega",
+    "name": "Xiam Vega",
+    "aliases": [
+      "VEGA Xiam"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "italy-history.json",
+        "name": "Xiam Vega Urrutia"
+      },
+      {
+        "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "relatedProfiles": [
+      {
+        "league": "italy",
+        "playerId": "xiam-vega"
+      }
+    ]
+  },
+  {
+    "id": "jean-harvin-walters",
+    "name": "Jean Harvin Walters",
+    "aliases": [
+      "WALTERS Jean Harvin"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/jean-walters-jugara-en-el-beisbol-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "yoanner-negrin",
+    "name": "Yoanner Negrín",
+    "aliases": [
+      "NEGRIN PEREZ Yoanner"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/mas-de-50-cubanos-han-jugado-la-temporada-invernal-en-el-caribe-listado/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "lazaro-blanco",
+    "name": "Lázaro Blanco",
+    "aliases": [
+      "BLANCO Lazaro"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "BLANCO HERNÁNDEZ Lázaro Emilio"
+      }
+    ],
+    "cubanArchiveName": "BLANCO HERNÁNDEZ Lázaro Emilio"
+  },
+  {
+    "id": "yunior-paumier",
+    "name": "Yunior Paumier",
+    "aliases": [
+      "PAUMIER Yunior"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "PAUMIER OLIVA Yunior"
+      }
+    ],
+    "cubanArchiveName": "PAUMIER OLIVA Yunior"
+  },
+  {
+    "id": "victor-munoz",
+    "name": "Víctor Muñoz",
+    "aliases": [
+      "MUÑOZ Víctor"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "file": "cuban-career-baseline.json",
+        "name": "MUÑOZ MARTÍNEZ Víctor"
+      },
+      {
+        "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ],
+    "cubanArchiveName": "MUÑOZ MARTÍNEZ Víctor"
+  },
+  {
+    "id": "lency-delgado",
+    "name": "Lency Delgado",
+    "aliases": [
+      "DELGADO Lency"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/tigres-de-chinandega-despiden-a-un-cubano-y-el-tren-va-primero-en-nicaragua-detalles/",
+        "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  }
+]

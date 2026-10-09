@@ -1,0 +1,35 @@
+name: Nicaragua · actualización independiente
+on:
+  schedule:
+    - cron: '17 1,7,13,19 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['update.py', 'compile.py', 'registry.json', '.github/workflows/nicaragua.yml']
+permissions:
+  contents: write
+concurrency:
+  group: nicaragua-stats
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install playwright==1.55.0
+      - run: python -m playwright install --with-deps chromium
+      - name: Consultar y validar APBN
+        run: python update.py
+      - name: Guardar datos y estado, incluso si la fuente falla
+        if: always()
+        run: |
+          git config user.name 'Pelota Cubana Nicaragua'
+          git config user.email 'nicaragua-bot@users.noreply.github.com'
+          git add data.json source.json status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar estadísticas APBN y estado de consulta'
+            git push
+          fi
