@@ -14,3 +14,5 @@ Fuente: https://www.laprofesionalapbn.com.ni/es
 - Se incluyen participaciones documentadas, no contrataciones sin actuaciones. El índice oficial no ofrece ediciones anteriores a 2020–2021; el alcance no equivale a toda la historia del béisbol profesional nicaragüense.
 
 La primera importación fue revisada el 9 de octubre de 2026. `status.json` identifica la última consulta y los fallos; una consulta fallida conserva los datos anteriores y no se presenta como actualización completa.
+
+Estado de puesta en marcha: las dos primeras pruebas en GitHub recibieron HTTP 403 de CloudFront en la fuente oficial. El horario está guardado, pero la actualización automática no está comprobada operativa. Se conserva la importación revisada y el estado de error.

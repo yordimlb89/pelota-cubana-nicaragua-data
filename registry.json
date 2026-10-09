@@ -146,18 +146,13 @@
     "reviewedAt": "2026-10-09",
     "identitySources": [
       {
-        "file": "cuban-career-baseline.json",
-        "name": "ALONSO PERAZA Lázaro"
-      },
-      {
         "source": "owner-supplied Cuban cohort, 2026-10-09"
       },
       {
         "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
         "fact": "Identidad cubana y participación en Nicaragua"
       }
-    ],
-    "cubanArchiveName": "ALONSO PERAZA Lázaro"
+    ]
   },
   {
     "id": "maikel-serrano",
@@ -352,11 +347,10 @@
     "reviewedAt": "2026-10-09",
     "identitySources": [
       {
-        "file": "cuban-career-baseline.json",
-        "name": "BLANCO HERNÁNDEZ Lázaro Emilio"
+        "url": "https://cubalite.com/pelotero-de-industriales-es-despedido-y-sigue-sin-trabajo/",
+        "fact": "Antesalista artemiseño con Indios del Bóer, 2021–2022"
       }
-    ],
-    "cubanArchiveName": "BLANCO HERNÁNDEZ Lázaro Emilio"
+    ]
   },
   {
     "id": "pavel-hernandez",
@@ -425,25 +419,10 @@
     "reviewedAt": "2026-10-09",
     "identitySources": [
       {
-        "file": "italy-history.json",
-        "name": "Frank Luis Medina Garcia"
-      },
-      {
-        "file": "cuban-career-baseline.json",
-        "name": "DÍAZ MEDINA Luis Felipe"
-      },
-      {
         "url": "https://pelotacubanausa.com/cubanos-vieron-accion-clasificacion-nicaragua/",
         "fact": "Identidad cubana y participación en Nicaragua"
       }
-    ],
-    "relatedProfiles": [
-      {
-        "league": "italy",
-        "playerId": "frank-luis-medina-garcia"
-      }
-    ],
-    "cubanArchiveName": "DÍAZ MEDINA Luis Felipe"
+    ]
   },
   {
     "id": "adrian-moreno",
@@ -700,10 +679,10 @@
     "identitySources": [
       {
         "file": "cuban-career-baseline.json",
-        "name": "BLANCO HERNÁNDEZ Lázaro Emilio"
+        "name": "BLANCO MATOS Lázaro"
       }
     ],
-    "cubanArchiveName": "BLANCO HERNÁNDEZ Lázaro Emilio"
+    "cubanArchiveName": "BLANCO MATOS Lázaro"
   },
   {
     "id": "yunior-paumier",
@@ -729,15 +708,10 @@
     "reviewedAt": "2026-10-09",
     "identitySources": [
       {
-        "file": "cuban-career-baseline.json",
-        "name": "MUÑOZ MARTÍNEZ Víctor"
-      },
-      {
         "url": "https://cubalite.com/aqui-los-8-cubanos-en-la-liga-profesional-de-nicaragua/",
         "fact": "Identidad cubana y participación en Nicaragua"
       }
-    ],
-    "cubanArchiveName": "MUÑOZ MARTÍNEZ Víctor"
+    ]
   },
   {
     "id": "lency-delgado",
@@ -750,6 +724,37 @@
       {
         "url": "https://pelotacubanausa.com/tigres-de-chinandega-despiden-a-un-cubano-y-el-tren-va-primero-en-nicaragua-detalles/",
         "fact": "Identidad cubana y participación en Nicaragua"
+      }
+    ]
+  },
+  {
+    "id": "yasiel-gonzalez",
+    "name": "Yasiel González",
+    "aliases": [
+      "GONZALEZ Yasiel",
+      "GONZALEZ HERRERA Yasiel"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/yasiel-gonzalez-raymond-figueredo-nicaragua/",
+        "fact": "Anunciado para 2026–2027; sin participación estadística todavía"
+      }
+    ]
+  },
+  {
+    "id": "raymond-figueredo",
+    "name": "Raymond Figueredo",
+    "aliases": [
+      "FIGUEREDO Raymond",
+      "FIGUEREDO CRUZ Raymond",
+      "FIGUEREDO CRUZ Raimond"
+    ],
+    "reviewedAt": "2026-10-09",
+    "identitySources": [
+      {
+        "url": "https://pelotacubanausa.com/yasiel-gonzalez-raymond-figueredo-nicaragua/",
+        "fact": "Anunciado para 2026–2027; sin participación estadística todavía"
       }
     ]
   }
